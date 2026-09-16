@@ -1,3 +1,7 @@
+## Parcours français
+
+Ce dépôt contient un parcours pédagogique en français consacré à Exactly : marchés à taux variable et fixe, maturités, gestion du risque et liquidations. Consultez le [sommaire du parcours](docs/fr/README.md).
+
 # Exactly Protocol
 
 ![CI Status](https://github.com/exactly/protocol/actions/workflows/test.yml/badge.svg)
